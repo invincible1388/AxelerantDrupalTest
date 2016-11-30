@@ -1,0 +1,7 @@
+name = Axelerant Technical Test Module
+description = Solution module code for Axelerant technical text.
+package = Axelerant
+
+version = "7.x-0.0"
+core = "7.x"
+project = "axelerant_tech_module"

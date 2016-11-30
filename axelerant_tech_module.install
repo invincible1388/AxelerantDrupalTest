@@ -1,0 +1,8 @@
+<?php 
+
+/**
+ * Implements hook_uninstall().
+ */
+function axelerant_tech_module_uninstall() {
+  variable_del('siteapikey');
+}
